@@ -1,0 +1,113 @@
+# App Store
+# Store content such as apps, books, and music
+DOMAIN,ppq.apple.com,Apple
+DOMAIN-SUFFIX,apps.apple.com,Apple
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,Apple
+DOMAIN-SUFFIX,itunes.apple.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
+
+# > App Store Connect
+DOMAIN,appstoreconnect.apple.com,Apple
+DOMAIN,iosapps-ssl.itunes.apple.com,Apple
+DOMAIN,itcmobile.itunes.apple.com,Apple
+
+# Find My
+DOMAIN,fmfmobile.icloud.com,Apple
+DOMAIN,fmipmobile.icloud.com,Apple
+DOMAIN,statici.icloud.com,Apple
+
+# > iCloud email
+DOMAIN-SUFFIX,mail.icloud.com.cn,Apple
+DOMAIN-SUFFIX,mail.me.com,Apple
+
+# > Apple Music
+USER-AGENT,Music*,Apple
+DOMAIN,aod.itunes.apple.com,Apple
+DOMAIN,mvod.itunes.apple.com,Apple
+DOMAIN,streamingaudio.itunes.apple.com,Apple
+
+# > Apple News
+DOMAIN,apple.comscoreresearch.com,Apple
+DOMAIN,gateway.icloud.com,Apple
+DOMAIN,gspe1-ssl.ls.apple.com,Apple
+DOMAIN,news-client.apple.com,Apple
+DOMAIN,news-edge.apple.com,Apple
+DOMAIN,news-events.apple.com,Apple
+DOMAIN-SUFFIX,apple.news,Apple
+
+# > Siri
+DOMAIN,guzzoni.apple.com,Apple
+
+# Software Update
+# > iOS updates
+DOMAIN,appldnld.apple.com,Apple
+DOMAIN,ns.itunes.apple.com,Apple
+# > iOS, tvOS, and macOS
+DOMAIN,mesu.apple.com,Apple
+DOMAIN,updates.cdn-apple.com,Apple
+DOMAIN,updates-http.cdn-apple.com,Apple
+DOMAIN,xp.apple.com,Apple
+
+# TV
+USER-AGENT,AppleTV*,Apple
+USER-AGENT,com.apple.tv*,Apple
+DOMAIN-SUFFIX,tv.apple.com,Apple
+DOMAIN,hls.itunes.apple.com,Apple
+DOMAIN,hls-amt.itunes.apple.com,Apple
+DOMAIN,play-edge.itunes.apple.com,Apple
+
+# TestFlight
+DOMAIN,beta.apple.com,Apple
+DOMAIN,testflight.apple.com,Apple
+
+# iCloud
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud.com.cn,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN,www-cdn.icloud.com.akadns.net,Apple
+
+# Apple
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,apple.co,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
+DOMAIN-SUFFIX,appstore.com,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-KEYWORD,apple.com.akadns.net,Apple
+DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
+IP-CIDR,17.0.0.0/8,Apple
+IP-CIDR,63.92.224.0/19,Apple
+IP-CIDR,65.199.22.0/23,Apple
+IP-CIDR,139.178.128.0/18,Apple
+IP-CIDR,144.178.0.0/19,Apple
+IP-CIDR,192.35.50.0/24,Apple
+IP-CIDR,198.183.17.0/24,Apple
+IP-CIDR,205.180.175.0/24,Apple
+
+# > other
+DOMAIN,api.smoot.apple.cn,Apple
+DOMAIN,apps.apple.com,Apple
+DOMAIN,books.itunes.apple.com,Apple
+DOMAIN,itunes.apple.com,Apple
+DOMAIN,np-edge.itunes.apple.com,Apple
+DOMAIN-SUFFIX,akadns.net,Apple
+DOMAIN-SUFFIX,apple-dns.cn,Apple
+DOMAIN-SUFFIX,apple-dns.net,Apple
+DOMAIN-SUFFIX,apple.comscoreresearch.com,Apple
+DOMAIN-SUFFIX,applecom.com,Apple
+DOMAIN-SUFFIX,appleiphonecell.com,Apple
+DOMAIN-SUFFIX,appsto.re,Apple
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net,Apple
+DOMAIN-SUFFIX,crashlytics.com,Apple
+DOMAIN-SUFFIX,cups.org,Apple
+DOMAIN-SUFFIX,iphone4s.com,Apple
+DOMAIN-SUFFIX,itunes.com,Apple
+DOMAIN-SUFFIX,play-cdn.itunes-apple.com.akadns.net,Apple
+DOMAIN-SUFFIX,push-apple.com.akadns.net,Apple
+DOMAIN-SUFFIX,unity3d.com,Apple
+DOMAIN-SUFFIX,unity.com,Apple
+DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net,Apple
+IP-CIDR,144.178.36.0/22,Apple
+IP-CIDR,144.178.48.0/20,Apple
