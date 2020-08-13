@@ -1,0 +1,25 @@
+# > Google Drive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,GoogleDrive
+USER-AGENT,Google.Drive*,Gapis
+USER-AGENT,*com.google.Drive*,Gapis
+DOMAIN-SUFFIX,docs.google.com,Gapis
+DOMAIN-SUFFIX,drive.google.com,Gapis
+DOMAIN-SUFFIX,googledrive.com,Gapis
+DOMAIN-SUFFIX,googleusercontent.com,Gapis
+
+# > google apis
+DOMAIN-SUFFIX,googleapis.cn,Gapis
+DOMAIN-SUFFIX,googleapis.com,Gapis
+DOMAIN-SUFFIX,clientservices.googleapis.com,Gapis
+DOMAIN-SUFFIX,fonts.googleapis.com,Gapis
+DOMAIN-SUFFIX,imasdk.googleapis.com,Gapis
+DOMAIN-SUFFIX,khm.googleapis.com,Gapis
+DOMAIN-SUFFIX,khm0.googleapis.com,Gapis
+DOMAIN-SUFFIX,khm1.googleapis.com,Gapis
+DOMAIN-SUFFIX,khm2.googleapis.com,Gapis
+DOMAIN-SUFFIX,khm3.googleapis.com,Gapis
+DOMAIN-SUFFIX,khmdb.googleapis.com,Gapis
+DOMAIN-SUFFIX,safebrowsing.googleapis.com,Gapis
+DOMAIN-SUFFIX,update.googleapis.com,Gapis
+DOMAIN,dl.google.com,Gapis
+DOMAIN-SUFFIX,googletraveladservices.com,Gapis
