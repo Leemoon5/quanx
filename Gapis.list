@@ -7,6 +7,17 @@ DOMAIN-SUFFIX,drive.google.com,Gapis
 DOMAIN-SUFFIX,googledrive.com,Gapis
 DOMAIN-SUFFIX,googleusercontent.com,Gapis
 
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,Streaming
+USER-AGENT,YouTube*,Streaming
+DOMAIN-SUFFIX,googlevideo.com,Streaming
+DOMAIN-SUFFIX,youtube.com,Streaming
+DOMAIN,youtubei.googleapis.com,Streaming
+
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,Streaming
+USER-AGENT,YouTubeMusic*,Streaming
+
 # > google apis
 DOMAIN-SUFFIX,googleapis.cn,Gapis
 DOMAIN-SUFFIX,googleapis.com,Gapis
